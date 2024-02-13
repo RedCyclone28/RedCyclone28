@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Anda mungkin sudah mengenal saya jika Anda menemukan akun GitHub ini.<br>
+Akun ini hanya digunakan untuk latihan pemrograman dan proyek-proyek pribadi. <br>
+Jika Anda ingin bekerja sama dengan saya secara profesional, mohon kunjungi akun [putera-anami](https://github.com/putera-anami).<br>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/RedCyclone28">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RedCyclone28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RedCyclone28&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **RedCyclone28/RedCyclone28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
